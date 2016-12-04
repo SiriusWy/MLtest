@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="breeze_viz">
+    <CLASSES>
+      <root url="file://E:/spark/breeze_viz" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://E:/spark/breeze_viz" recursive="false" />
+  </library>
+</component>
